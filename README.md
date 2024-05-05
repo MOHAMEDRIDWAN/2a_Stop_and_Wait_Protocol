@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+# NAME : MOHAMED RIDWAN A
+# REG NO : 212223110030
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
